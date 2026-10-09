@@ -1,1 +1,1 @@
-export const book = () => false;
+export const book = () => null;
